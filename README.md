@@ -9,18 +9,6 @@ As a final project for Computational Physics, I implemented the Crank-Nicolson m
 
 ## Demo
 
-## VS. 
-
-## Requirement
-
 ## Usage
 
-## Install
-
-## Contribution
-
-## Licence
-
 ## Author
-
-[tcnksm](https://github.com/tcnksm)
