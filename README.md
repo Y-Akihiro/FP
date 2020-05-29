@@ -1,4 +1,4 @@
-# FP
+# Fokker-Planck
 2D Fokker-Planck Equation Solver
 ====
 
